@@ -16,3 +16,11 @@ Here are some non confidential files.
   Part of a more complexe system of workbooks, wich allow to easily keep track of time spent on differents projects.
   A supervision workbook is used to import or export data, and analyse those data for facturation purposes and activity managment.
   This is the core structure of the user's workbook. Other workbooks are confidentials and can't be shared here.  
+
+5) TestIA.xlsm
+  My first AI, created in Excel.
+  It is a simple AI designed to guess the color of a flower's petal based of the lenght and width of said petal.
+  This is a supervised learning algorithm.
+  The weights and the values of the neuronal network are showed for learning pruposes.
+  Input : petal length and petal width
+  Output : petal color
