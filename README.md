@@ -31,6 +31,7 @@ Here are some non confidential files.
   My first AI, created in Excel.
   It is a simple AI designed to guess the color of a flower's petal based of the lenght and width of said petal.
   This is a supervised learning algorithm.
-  The weights and the values of the neuronal network are showed for learning pruposes.
+  The weights and the values of the neuronal network are showed for learning purposes.
+  
   Input : petal length and petal width
   Output : petal color
