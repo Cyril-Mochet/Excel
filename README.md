@@ -34,4 +34,5 @@ Here are some non confidential files.
   The weights and the values of the neuronal network are showed for learning purposes.
   
   Input : petal length and petal width
+  
   Output : petal color
