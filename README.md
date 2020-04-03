@@ -16,12 +16,12 @@ Here are some non confidential files.
   
 3) Mail_auto.xlsm
 
-  Allow for setting a mail template in Excel and send it with a simple click via Outlook.
+  Allow the user to create a mail template in Excel and send it with a simple click using Outlook.
   
   
 4) Model.xlsem
 
-  Part of a more complexe system of workbooks, wich allow to easily keep track of time spent on differents projects.
+  This file is a part of a more complexe system of workbooks, wich allow to easily keep track of time spent on differents projects.
   A supervision workbook is used to import or export data, and analyse those data for facturation purposes and activity managment.
   This is the core structure of the user's workbook. Other workbooks are confidentials and can't be shared here.  
 
