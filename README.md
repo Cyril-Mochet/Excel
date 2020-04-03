@@ -22,7 +22,7 @@ Here are some non confidential files.
 4) Model.xlsem
 
   This file is a part of a more complexe system of workbooks, wich allow to easily keep track of time spent on differents projects.
-  A supervision workbook is used to import or export data, and analyse those data for facturation purposes and activity managment.
+  A supervision workbook is used to import or export data, and analyse those data for activity managment and facturation purposes.
   This is the core structure of the user's workbook. Other workbooks are confidentials and can't be shared here.  
 
 
